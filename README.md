@@ -26,6 +26,12 @@
       cp -r ../../ch04/ch04_6/*.js .
       rm src/pages/*
       ```
+4. 스토어 파일 생성
+   ```
+   rm -r -force src/store/*
+   cp -r src/copy/store/* src/store
+   ```
+
 
 ---
 ### SCOOP 설치
