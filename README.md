@@ -14,11 +14,18 @@
    npm i redux @reduxjs/toolkit react-redux
    ```
 3. 파일 복사
-   ```
-   cp -r ../ch04_1/src/* ./src
-   cp -r ../ch04_1/*.js .
-   rm src/pages/*
-   ```
+   1. 같은 장에서 복사
+      ```
+      cp -r ../ch04_1/src/* ./src
+      cp -r ../ch04_1/*.js .
+      rm src/pages/*
+      ```
+   2. 이전 장에서 복사
+      ```
+      cp -r ../../ch04/ch04_6/src/* ./src
+      cp -r ../../ch04/ch04_6/*.js .
+      rm src/pages/*
+      ```
 
 ---
 ### SCOOP 설치
