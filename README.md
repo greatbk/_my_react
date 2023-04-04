@@ -12,6 +12,8 @@
    npm i -D @types/chance @types/luxon
    npm i -D postcss autoprefixer tailwindcss @tailwindcss/line-clamp daisyui
    npm i redux @reduxjs/toolkit react-redux
+   npm i redux-logger redux-thunk
+   npm i -D @types/redux-logger @types/redux-thunk
    ```
 3. 파일 복사
    1. 같은 장에서 복사
