@@ -14,6 +14,9 @@
    npm i redux @reduxjs/toolkit react-redux
    npm i redux-logger redux-thunk
    npm i -D @types/redux-logger @types/redux-thunk
+   npm i react-dnd react-dnd-html5-backend
+   npm i -D @types/react-dnd
+   npm i --legacy-peer-deps react-beautiful-dnd
    ```
 3. 파일 복사
    1. 같은 장에서 복사
@@ -33,7 +36,6 @@
    rm -r -force src/store/*
    cp -r src/copy/store/* src/store
    ```
-
 
 ---
 ### SCOOP 설치
