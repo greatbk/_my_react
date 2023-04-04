@@ -39,6 +39,23 @@
 
 ---
 ### SCOOP 설치
-1. 설치 명령어
+1. 환경설정
    ```
+   $env:SCOOP='C:\Scoop'
+   [Environment]::SetEnvironmentVariable('Scoop', $env:SCOOP, 'User')
+   Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -scope CurrentUser
    ```
+2. scoop 설치
+   ```
+   iwr -useb get.scoop.sh | iex
+   ```
+3. 유틸 설치
+   ```
+   scoop install aria2
+   scoop install touch
+   ```
+4. scoop 으로 설치할 수 있는 기타 유틸리티
+   1. git
+   2. nodejs-lts
+   3. vscode
+   4. googlechrome
