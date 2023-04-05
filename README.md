@@ -9,7 +9,7 @@
 2. 패키지 추가
    ```
    npm i chance luxon @fontsource/material-icons redux @reduxjs/toolkit react-redux
-   npm i redux-logger redux-thunk react-dnd react-dnd-html5-backend
+   npm i redux-logger redux-thunk react-dnd react-dnd-html5-backend react-router-dom
    npm i --legacy-peer-deps react-beautiful-dnd
    npm i -D @types/chance @types/luxon
    npm i -D @types/redux-logger @types/redux-thunk @types/react-dnd @types/react-beautiful-dnd
