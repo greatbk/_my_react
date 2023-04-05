@@ -8,15 +8,12 @@
    ```
 2. 패키지 추가
    ```
-   npm i chance luxon @fontsource/material-icons
-   npm i -D @types/chance @types/luxon
-   npm i -D postcss autoprefixer tailwindcss @tailwindcss/line-clamp daisyui
-   npm i redux @reduxjs/toolkit react-redux
-   npm i redux-logger redux-thunk
-   npm i -D @types/redux-logger @types/redux-thunk
-   npm i react-dnd react-dnd-html5-backend
-   npm i -D @types/react-dnd
+   npm i chance luxon @fontsource/material-icons redux @reduxjs/toolkit react-redux
+   npm i redux-logger redux-thunk react-dnd react-dnd-html5-backend
    npm i --legacy-peer-deps react-beautiful-dnd
+   npm i -D @types/chance @types/luxon
+   npm i -D @types/redux-logger @types/redux-thunk @types/react-dnd @types/react-beautiful-dnd
+   npm i -D postcss autoprefixer tailwindcss @tailwindcss/line-clamp daisyui
    ```
 3. 파일 복사
    1. 같은 장에서 복사
