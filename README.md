@@ -9,9 +9,9 @@
 2. 패키지 추가
    ```
    npm i chance luxon @fontsource/material-icons redux @reduxjs/toolkit react-redux
-   npm i redux-logger redux-thunk react-dnd react-dnd-html5-backend react-router-dom jsonwebtoken
+   npm i redux-logger redux-thunk react-dnd react-dnd-html5-backend react-router-dom
    npm i --legacy-peer-deps react-beautiful-dnd
-   npm i -D @types/chance @types/luxon @types/jsonwebtoken
+   npm i -D @types/chance @types/luxon
    npm i -D @types/redux-logger @types/redux-thunk @types/react-dnd @types/react-beautiful-dnd
    npm i -D postcss autoprefixer tailwindcss @tailwindcss/line-clamp daisyui
    ```
@@ -42,10 +42,9 @@
    ```
 2. 패키지 추가
    ```
-   npm i mongodb
-   npm i express cors
+   npm i mongodb express cors jsonwebtoken
    npm i -D typescript ts-node @types/node
-   npm i -D @types/mongodb
+   npm i -D @types/mongodb @types/jsonwebtoken
    npm i -D @types/express @types/cors nodemon
    ```
 3. tsconfig.json 파일 생성
