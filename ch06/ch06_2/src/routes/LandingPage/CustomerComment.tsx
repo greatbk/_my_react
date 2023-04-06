@@ -11,12 +11,12 @@ const CustomerComment: FC<CustomerCommentProps> = ({customerComment}) => {
 
   return (
     <Div
-      className="releative p-2 mx-2 mt-8 border-2 rounded-lg shadow-lg border-primary"
+      className="relative p-2 mx-2 mt-8 border-2 rounded-lg shadow-lg border-primary"
       minWidth="20rem"
       width="20rem"
       minHeight="10rem"
       height="1-rem">
-      <div className="absolute flux items-center justify-center w-full -top-7">
+      <div className="absolute flex items-center justify-center w-full -top-7">
         <Avatar src={avatar} className="border-2 border-primary" />
       </div>
       <div className="flex flex-col">

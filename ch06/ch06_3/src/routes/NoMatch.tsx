@@ -10,7 +10,7 @@ export default function NoMatch() {
 
   return (
     <div className="flex flex-col p-4">
-      <p className="text-xl text-center p-4 alert alert-error">Oops! No page found!</p>
+      <p className="text-xl text-center alert alert-error">Oops! No page found!</p>
       <div className="flex justify-center mt-4">
         <button className="ml-4 btn btn-primary btn-xs" onClick={goBack}>
           go Back
