@@ -42,9 +42,11 @@
    ```
 2. 패키지 추가
    ```
-   npm i -D typescript ts-node @types/node
    npm i mongodb
+   npm i express cors
+   npm i -D typescript ts-node @types/node
    npm i -D @types/mongodb
+   npm i -D @types/express @types/cors nodemon
    ```
 3. tsconfig.json 파일 생성
    ```
