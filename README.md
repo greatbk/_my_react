@@ -35,6 +35,28 @@
    ```
 
 ---
+### 백앤드 프로젝트 명령어
+1. 프로젝트 생성
+   ```
+   npm init --y
+   ```
+2. 패키지 추가
+   ```
+   npm i -D typescript ts-node @types/node
+   npm i mongodb
+   npm i -D @types/mongodb
+   ```
+3. tsconfig.json 파일 생성
+   ```
+   tsc --init
+   ```
+4. index.ts 파일 생성
+   ```
+   mkdir src
+   touch src/index.ts
+   ```
+
+---
 ### SCOOP 설치
 1. 환경설정
    ```
