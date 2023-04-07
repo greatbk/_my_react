@@ -1,17 +1,19 @@
 import {useState, useCallback} from 'react'
-import {del, post} from '../../server'
-import * as D from '../../data/Card'
+import {del} from '../../server'
+import {useAuth} from '../../contexts'
 
 export default function CopyMe() {
+  const {jwt} = useAuth()
+
   const [data, setData] = useState<object>({})
   const [errorMessage, setErrorMessage] = useState<string | null>(null)
 
   const deleteTest = useCallback(() => {
-    del('/test/1234')
+    del('/test/1234', jwt)
       .then(res => res.json())
       .then(data => setData(data))
       .catch(error => setErrorMessage(error.message))
-  }, [])
+  }, [jwt])
 
   return (
     <div className="mb-4">
