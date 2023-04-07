@@ -79,3 +79,14 @@
    2. nodejs-lts
    3. vscode
    4. googlechrome
+
+---
+### 참고정보
+1. Tailwind CSS
+   1. https://umeshmk.github.io/Tailwindcss-cheatsheet/
+   2. https://nerdcave.com/tailwind-cheat-sheet
+2. Design Samples
+   1. https://www.tailwind-kit.com/components
+3. Daisy UI
+   1. https://daisyui.com/
+

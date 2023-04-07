@@ -18,4 +18,4 @@ const hashTest = async () => {
   }
 }
 
-hashTest()
+hashTest().finally(() => console.log('finish'))
