@@ -42,8 +42,8 @@
    ```
 2. 패키지 추가
    ```
-   npm i mongodb express cors jsonwebtoken
-   npm i -D typescript ts-node @types/node
+   npm i mongodb express cors jsonwebtoken bcrypt
+   npm i -D typescript ts-node @types/node @types/bcrypt
    npm i -D @types/mongodb @types/jsonwebtoken
    npm i -D @types/express @types/cors nodemon
    ```
