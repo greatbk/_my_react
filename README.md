@@ -81,7 +81,12 @@
    4. googlechrome
 
 ---
-### 참고정보
+### 개발 참고 사이트
+1. React Router
+   1. https://reactrouter.com/en/main
+
+---
+### 디자인 참고 사이트
 1. Tailwind CSS
    1. https://umeshmk.github.io/Tailwindcss-cheatsheet/
    2. https://nerdcave.com/tailwind-cheat-sheet
@@ -89,7 +94,7 @@
    1. https://www.tailwind-kit.com/components
 3. Daisy UI
    1. https://daisyui.com/
-4. React Router
-   1. https://reactrouter.com/en/main
+4. Google Material Icon
+   1. https://fonts.google.com/icons
 
 
