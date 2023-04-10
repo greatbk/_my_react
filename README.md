@@ -1,7 +1,7 @@
 # 리액트 모던 웹 개발 with 타입스크립트 예제
 
 ---
-### 명령어 정리
+### 프로젝트 설정
 1. 프로젝트 생성
    ```
    npx create-react-app ch04_2 --template typescript
@@ -35,7 +35,7 @@
    ```
 
 ---
-### 백앤드 프로젝트 명령어
+### 백앤드 프로젝트 설정
 1. 프로젝트 생성
    ```
    npm init --y
@@ -79,6 +79,13 @@
    2. nodejs-lts
    3. vscode
    4. googlechrome
+
+---
+### 웹스톰 설정
+1. 전역으로 Prettier 설치
+   ```
+   npm i -g prettier
+   ```
 
 ---
 ### 개발 참고 사이트
