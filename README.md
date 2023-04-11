@@ -104,7 +104,7 @@
 4. Google Material Icon
    1. https://fonts.google.com/icons
 5. Material Tailwind
-    1. https://www.material-tailwind.com/docs/react/installation
+   1. https://www.material-tailwind.com/docs/react/installation
 
 ---
 ### 라이브러리 일괄 다운로드
