@@ -103,7 +103,10 @@
    1. https://daisyui.com/
 4. Google Material Icon
    1. https://fonts.google.com/icons
-5. Material Tailwind
+5. MUI
+   1. https://mui.com/
+   2. https://github.com/mui/material-ui.git
+6. Material Tailwind
    1. https://www.material-tailwind.com/docs/react/installation
 
 ---
