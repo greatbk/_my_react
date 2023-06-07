@@ -108,6 +108,8 @@
    2. https://github.com/mui/material-ui.git
 6. Material Tailwind
    1. https://www.material-tailwind.com/docs/react/installation
+7. 레이아웃 템플릿
+   1. https://tailblocks.cc/
 
 ---
 ### 이모티콘 사이트
