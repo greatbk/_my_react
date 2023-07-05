@@ -91,6 +91,8 @@
 ### 개발 참고 사이트
 1. React Router
    1. https://reactrouter.com/en/main
+2. React Select
+   1. https://react-select.com/home
 
 ---
 ### 디자인 참고 사이트
