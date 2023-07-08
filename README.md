@@ -98,8 +98,12 @@
 
 ---
 ### 개발 참고 사이트
-1. React Router
+1. React
+   1. https://react.dev/
+2. React Router
    1. https://reactrouter.com/en/main
+3. React Select
+   1. https://react-select.com/home
 
 ---
 ### 디자인 참고 사이트
@@ -117,6 +121,13 @@
    2. https://github.com/mui/material-ui.git
 6. Material Tailwind
    1. https://www.material-tailwind.com/docs/react/installation
+7. 레이아웃 템플릿
+   1. https://tailblocks.cc/
+
+---
+### 이모티콘 사이트
+1. heroicons
+   1. https://heroicons.com/
 
 ---
 ### 라이브러리 일괄 다운로드
