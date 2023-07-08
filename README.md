@@ -86,6 +86,15 @@
    ```
    npm i -g prettier
    ```
+2. 저장시 포매팅
+   * 파일 > 설정 > 언어 및 프레임워크 > JavaScript > Prettier > '자동 Prettier 구성' 체크 > 'Run on save' 체크
+3. 기본 들여쓰기 설정 변경
+   1. 파일 > 설정 > 에디터 > 코드 스타일 > JavaScript > '탭 크기' 2로설정
+   2. 파일 > 설정 > 에디터 > 코드 스타일 > JavaScript > '들여쓰기' 2로설정
+   3. 파일 > 설정 > 에디터 > 코드 스타일 > JavaScript > '연속 들여쓰기' 2로설정
+   4. 파일 > 설정 > 에디터 > 코드 스타일 > TypeScript > '탭 크기' 2로설정
+   5. 파일 > 설정 > 에디터 > 코드 스타일 > TypeScript > '들여쓰기' 2로설정
+   6. 파일 > 설정 > 에디터 > 코드 스타일 > TypeScript > '연속 들여쓰기' 2로설정
 
 ---
 ### 개발 참고 사이트
@@ -113,63 +122,63 @@
 ### 라이브러리 일괄 다운로드
    ```
    cd ch01/ch01_5
-   npm install
+   npm install --legacy-peer-deps
    cd ../../ch02/ch02_1
-   npm install
+   npm install --legacy-peer-deps
    cd ../ch02_2
-   npm install
+   npm install --legacy-peer-deps
    cd ../ch02_3
-   npm install
+   npm install --legacy-peer-deps
    cd ../ch02_4
-   npm install
+   npm install --legacy-peer-deps
    cd ../ch02_5
-   npm install
+   npm install --legacy-peer-deps
    cd ../../ch03/ch03_1
-   npm install
+   npm install --legacy-peer-deps
    cd ../ch03_2
-   npm install
+   npm install --legacy-peer-deps
    cd ../ch03_3
-   npm install
+   npm install --legacy-peer-deps
    cd ../ch03_4
-   npm install
+   npm install --legacy-peer-deps
    cd ../ch03_5
-   npm install
+   npm install --legacy-peer-deps
    cd ../../ch04/ch04_1
-   npm install
+   npm install --legacy-peer-deps
    cd ../ch04_2
-   npm install
+   npm install --legacy-peer-deps
    cd ../ch04_3
-   npm install
+   npm install --legacy-peer-deps
    cd ../ch04_4
-   npm install
+   npm install --legacy-peer-deps
    cd ../ch04_5
-   npm install
+   npm install --legacy-peer-deps
    cd ../ch04_6
-   npm install
+   npm install --legacy-peer-deps
    cd ../../ch05/ch05_1
-   npm install
+   npm install --legacy-peer-deps
    cd ../ch05_2
-   npm install
+   npm install --legacy-peer-deps
    cd ../ch05_3
-   npm install
+   npm install --legacy-peer-deps
    cd ../ch05_4
-   npm install
+   npm install --legacy-peer-deps
    cd ../../ch06/ch06_1
-   npm install
+   npm install --legacy-peer-deps
    cd ../ch06_2
-   npm install
+   npm install --legacy-peer-deps
    cd ../ch06_3
-   npm install
+   npm install --legacy-peer-deps
    cd ../../ch07/ch07_2_server
-   npm install
+   npm install --legacy-peer-deps
    cd ../ch07_3_client
-   npm install
+   npm install --legacy-peer-deps
    cd ../ch07_3_server
-   npm install
+   npm install --legacy-peer-deps
    cd ../ch07_4_client
-   npm install
+   npm install --legacy-peer-deps
    cd ../ch07_4_server
-   npm install
+   npm install --legacy-peer-deps
    ```
 
 ---
