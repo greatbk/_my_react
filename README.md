@@ -114,19 +114,19 @@
    1. https://www.tailwind-kit.com/components
 3. Daisy UI
    1. https://daisyui.com/
-4. Google Material Icon
-   1. https://fonts.google.com/icons
-5. MUI
+4. MUI
    1. https://mui.com/
    2. https://github.com/mui/material-ui.git
-6. Material Tailwind
+5. Material Tailwind
    1. https://www.material-tailwind.com/docs/react/installation
-7. 레이아웃 템플릿
+6. 레이아웃 템플릿
    1. https://tailblocks.cc/
 
 ---
 ### 이모티콘 사이트
-1. heroicons
+1. Google Material Icon
+   1. https://fonts.google.com/icons
+2. heroicons
    1. https://heroicons.com/
 
 ---
